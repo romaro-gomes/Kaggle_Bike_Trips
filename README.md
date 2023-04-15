@@ -1,4 +1,4 @@
-# Kaggle_Bike_Trips
+# 🚴‍♂️ Bike Trips: Uma ánálise de dados em R.
 
 ## Introdução
 
